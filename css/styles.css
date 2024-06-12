@@ -12,16 +12,15 @@ header {
     text-align: center;
 }
 
-main {
+main { 
     width: 80%;
-    margin: 20px auto;
-    background: #fff;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    padding: irem 0;
+    text-align: center;
 }
 
 article {
-    margin-bottom: 20px;
+    margin: 20px;
 }
 
 article h2 {
